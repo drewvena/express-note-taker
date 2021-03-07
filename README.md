@@ -1,6 +1,7 @@
 # express-note-taker
 
-
+Link to deployed application: https://notey-totey.herokuapp.com/
+![ScreenShot](./develop/images/note.png)
  ##  Description
  ### This project uses express, path, nanoid and heroku to create a note taking application that has save and delete funcionality!
  ---
